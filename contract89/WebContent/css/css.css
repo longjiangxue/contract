@@ -1,0 +1,116 @@
+
+.userPageBody {
+	font-family:"Microsoft Yahei";
+	font-size:12px;
+	margin:0;
+background: #fff url(../image/1.jpg) 50% 0 no-repeat;
+
+}  
+
+
+.page{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	
+}
+.fsec{
+	 width:30%;
+	 height:100%;		
+	 float: left;	
+}
+.tsec{
+	 width:70%;
+	 height:100%;	
+	 float: left;	
+}
+.ffsec{
+	 height: 30%;	
+}
+.ftwsec{
+	 height:30%;	
+}
+.ftsec{
+	 height:40%;	
+	
+}
+.classpic{
+	 width:200px;
+	 height:190px;
+}
+.formsty{
+	margin-top: 50px;
+}
+.userfsec{
+	 width:20%;
+	 height:100%;		
+	 float: left;
+}
+.usertsec{
+	 width:80%;
+	 height:100%;	
+	 float: left;	
+}
+.useronef{
+	height:30%;	
+}
+.useronet{
+	height: 70%;	
+}
+
+.usertwof{
+	height:30%;	
+}
+.usertwot{
+	height:70%;	
+}
+
+.miaoclock{
+   	margin-left: 20px;
+   	margin-top: 80px;
+ 
+}
+
+.welcomemes{
+
+	margin-top: 50px;
+	margin-left: 100px;
+	
+	
+}
+
+.zhucepage{
+	 width: 100%;
+	 height: 100%;	
+}
+
+.personInforSty{
+	margin-bottom: 12px;
+	
+}
+
+
+table{
+	border-collapse: collapse;
+}
+table,th,td{
+	border:1px,soild,black;
+}
+
+
+.inputLocation{
+	position: absolute;
+	left:400px;
+	
+}
+.b{
+	position: absolute;
+	left:300px;
+	
+}
+.formSub{
+	position: absolute;
+	left:350px;
+}
+
+
